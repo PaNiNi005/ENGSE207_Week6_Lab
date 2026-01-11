@@ -25,6 +25,7 @@ Database
 
 
 ### Diagram
+<img width="391" height="603" alt="image" src="https://github.com/user-attachments/assets/b3f805bd-7c70-4e92-a18a-2a3511aac745" />
 
 
 ### Pros & Cons
@@ -38,3 +39,4 @@ Database
 - ❌ [ต้องดูแลหลายส่วนของระบบ]
 
 ---
+
