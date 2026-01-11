@@ -26,6 +26,7 @@ Database
 - [Layered Architecture (Presentation, Business, Data)]
 
 ### Diagram
+<img width="345" height="528" alt="image" src="https://github.com/user-attachments/assets/075e71cb-2ddb-4329-9332-95ffc9c3602c" />
 
 
 ### Pros & Cons
@@ -39,3 +40,4 @@ Database
 - ❌ [หากส่วนใดส่วนหนึ่งมีปัญหา อาจกระทบทั้งระบบ]
 
 ---
+
