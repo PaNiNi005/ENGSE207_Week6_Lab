@@ -1,4 +1,4 @@
-# 📄ADR-001: Select Monolithic Web Application Architecture for Dormitory Management System
+# 📄ADR-001: Monolithic for Dormitory System
 
 **Date:** 2026-01-11  
 **Status:** Accepted  
@@ -126,3 +126,4 @@
 - *Software Architecture in Practice* – Len Bass  
 - [ADR GitHub](https://adr.github.io)  
 - [C4 Model](https://c4model.com)
+
