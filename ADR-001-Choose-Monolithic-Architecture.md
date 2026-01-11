@@ -10,6 +10,7 @@
 
 ### Background
 ระบบบริหารจัดการหอพัก (Dormitory Management System) 
+
 มีวัตถุประสงค์เพื่อช่วยผู้ดูแลหอพักในการจัดการข้อมูลห้องพัก ผู้เช่า การชำระค่าเช่า ค่าน้ำ ค่าไฟ และการแจ้งซ่อมบำรุง ระบบถูกออกแบบมาสำหรับการใช้งานในองค์กรขนาดเล็ก มีจำนวนผู้ใช้งานไม่มาก และมีขอบเขตการทำงานที่ชัดเจน
 
 ### Problem Statement
@@ -127,5 +128,6 @@
 - *Software Architecture in Practice* – Len Bass  
 - [ADR GitHub](https://adr.github.io)  
 - [C4 Model](https://c4model.com)
+
 
 
